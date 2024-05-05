@@ -1,0 +1,121 @@
+body{
+    margin:0;
+
+}
+.left-div{
+    width:50%;
+    height:600px;
+    background-color:#F5F5F5  ;
+    float:left;
+}
+
+.right-div{
+    width:50%;
+    height:600px;
+    background-color:#F5F5F5  ;
+    float:left;
+}
+.drive{
+    height:100px;
+}
+.center{
+    display:block;
+    margin-left:auto;
+    width:50%;
+    margin-right:auto;
+    padding-top: 150px;
+    
+}
+.dragon{
+        margin-left:auto;
+        width:60%;
+        margin-right:auto;
+        margin-left: 200px;
+        margin-top: -23px;
+        font-size:24px;
+        height:30px;
+
+}
+.dark{
+    background-color:#FFFFFF ;
+    float:left;
+    height:350px;
+    margin-top:140px;
+    width:60%;
+    box-shadow:6px 2px 0px ;
+    border-radius:24px;
+    
+}
+
+.camera{
+
+    font-size:15px;
+    border-radius:7px;
+    border:1px solid;
+    border-color:rgb(17, 145, 224);
+    width: 350px;
+    margin-left: 16px;
+    height: 43px;
+    margin-top: 15px;
+    
+}
+
+.mobile{
+ 
+    font-size:15px;
+    border-radius:7px;
+    border:1px solid;
+    border-color:rgb(17, 145, 224);
+    width: 350px;
+    margin-left: 16px;
+    height: 43px;
+    margin-top: 19px;
+}
+
+.macbook{
+    font-size:18px;
+    border-radius:7px;
+    border:1px solid;
+    border-color:rgb(11, 112, 214);
+    width: 355px;
+    margin-left: 16px;
+    height: 43px;
+    margin-top: 19px;
+    background-color:#2c84ff;
+    color:#F5F5F5;
+
+}
+.cube{
+    padding-left:130px;
+    font-size: 12px;
+}
+.bottle{
+    margin-left: 45px;
+    margin-right: 45px;
+}
+.watch{
+    background-color:rgb(4, 172, 55);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius:7px; 
+    margin-left: 90px;
+    margin-top: 10px;
+}
+.macbook:hover{
+    background-color:darkcyan;
+
+}
+.watch:hover{
+    background:darkgreen;
+}
+
+    
+
+
+
+
